@@ -61,9 +61,17 @@ const Fran = {
                          
                         },
                         
-  ]
+   ]
+  
+  }
+}
 
 ```
+
+
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=FranMolleda&show_icons=true)
+  
+
 
 
 ### About Me
@@ -73,6 +81,3 @@ Graduated from the Ironhack Coding Bootcamp Madrid, passionate about development
 
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=FranMolleda&show_icons=true)
-
