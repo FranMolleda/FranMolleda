@@ -1,5 +1,5 @@
 
-<h2> Hi, I'm Francisco Molleda </h2>
+<h2> Hi there, I'm Francisco Molleda </h2>
 
 <p><em>Bootcamp Web Dev. MERN Fulstack  <a href="https://www.ironhack.com/es/madrid">Ironhack Madrid</a>
 
