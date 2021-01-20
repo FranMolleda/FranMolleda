@@ -7,6 +7,10 @@
 
 [![Linkedin: franciscomolledajerez](https://img.shields.io/badge/-franciscomolledajerez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscomolledajerez/)](https://www.linkedin.com/in/franciscomolledajerez/)
 [![GitHub FranMolleda](https://img.shields.io/github/followers/FranMolleda?label=follow&style=social)](https://github.com/FranMolleda)
+<a target="_blank" href="mailto:fmjerez@gmail.com">
+  <img align="rigth" alt="Gmail" width="25px"  src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" />
+</a>
+
 
 
 
@@ -69,3 +73,6 @@ Graduated from the Ironhack Coding Bootcamp Madrid, passionate about development
 
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=FranMolleda&show_icons=true)
+
