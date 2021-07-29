@@ -24,13 +24,19 @@ const Fran = {
     code: [Javascript, HTML5, CSS3],
     frontend: [React, Canvas, Chart, OOP],
     backend: [Node, Express, ApiRest, Handlebars, Ajax],
-    dataBase: MongoDB,
+    dataBase: [MongoDB, Firebase]
     design: ["Responsive Web Design", Sass, "styled-components", Bulma, "Material UI", Bootstrap, React-Bootstrap],
     versionControl: [Git, Github],
     deployment: [Netlify, Heroku],
     codeEditor: [VSCode],
     methologies: Agile,
     projects:[        
+                        {
+                          title: "Daibingu",
+                          url: "https://daibingu.com/",
+                         
+                        }, 
+  
                         {
                           title: "Red Skull Game",
                           url: "https://red-skull-game-fran-molleda.netlify.app",
@@ -59,8 +65,7 @@ const Fran = {
                           title: "Pixabay",
                           url: "https://pixabay-app-fran-molleda.netlify.app",
                          
-                        },
-                        
+                        }
    ]
   
   }
