@@ -22,12 +22,12 @@
 const Fran = {
   skills: {
     code: [Javascript, HTML5, CSS3],
-    frontend: [React, Canvas, Chart, OOP],
+    frontend: [React,NextJs, Canvas, Chart, OOP],
     backend: [Node, Express, ApiRest, Handlebars, Ajax],
     dataBase: [MongoDB, Firebase]
     design: ["Responsive Web Design", Sass, "styled-components", Bulma, "Material UI", Bootstrap, React-Bootstrap],
     versionControl: [Git, Github],
-    deployment: [Netlify, Heroku],
+    deployment: [Netlify, Heroku, Plesk],
     codeEditor: [VSCode],
     methologies: Agile,
     projects:[        
