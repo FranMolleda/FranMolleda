@@ -19,57 +19,55 @@
 ### <img src="https://media.giphy.com/media/iXEYrlVSQEjAZ3LhKB/giphy.gif" width="75"> A little more about me...  
 
 ```javascript
-const Fran = {
+const FranMolleda = {
   skills: {
-    code: [Javascript, HTML5, CSS3],
-    frontend: [React, NextJs, Canvas, Chart, OOP],
-    backend: [Node, Express, ApiRest, Handlebars, Ajax],
-    dataBase: [MongoDB, Firebase]
-    design: ["Responsive Web Design", Sass, "styled-components", Bulma, "Material UI", Bootstrap, React-Bootstrap],
-    versionControl: [Git, Github],
-    deployment: [Netlify, Heroku, Plesk],
-    codeEditor: [VSCode],
-    methologies: Agile,
-    projects:[        
-                        {
-                          title: "Daibingu",
-                          url: "https://daibingu.com/",
-                         
-                        }, 
-  
-                        {
-                          title: "Red Skull Game",
-                          url: "https://red-skull-game-fran-molleda.netlify.app",
-                          
-                        },
-                        
-                        {
-                          title: "iMass app",
-                          url: "https://imass-app.herokuapp.com/",
-                         
-                        },
-                        
-                        {
-                          title: "Crypto Currency",
-                          url: "https://crypto-currency-fran-molleda.netlify.app",
-                         
-                        },
-                        
-                        {
-                          title: "Cotizador de Seguros",
-                          url: "https://cotizador-seguros-fran-molleda.netlify.app",
-                         
-                        },
-                        
-                        {
-                          title: "Pixabay",
-                          url: "https://pixabay-app-fran-molleda.netlify.app",
-                         
-                        }
-   ]
-  
-  }
-}
+    code: ["JavaScript", "HTML5", "CSS3"],
+    frontend: ["React", "Next.js", "Canvas", "Chart.js", "OOP"],
+    backend: ["Node.js", "Express", "API Rest", "Handlebars", "Ajax"],
+    dataBase: ["MongoDB", "Firebase"],
+    design: [
+      "Responsive Web Design",
+      "Sass",
+      "styled-components",
+      "Bulma",
+      "Material UI",
+      "Bootstrap",
+      "React-Bootstrap"
+    ],
+    versionControl: ["Git", "GitHub"],
+    deployment: ["Netlify", "Heroku", "Plesk"],
+    codeEditor: ["VSCode"],
+    methologies: "Agile",
+  },
+  projects: [
+    {
+      title: "Daibingu",
+      url: "https://daibingu.com/",
+    },
+    {
+      title: "Red Skull Game",
+      url: "https://red-skull-game-fran-molleda.netlify.app",
+    },
+    {
+      title: "iMass app",
+      url: "https://imass-app.herokuapp.com/",
+    },
+    {
+      title: "Crypto Currency",
+      url: "https://crypto-currency-fran-molleda.netlify.app",
+    },
+    {
+      title: "Cotizador de Seguros",
+      url: "https://cotizador-seguros-fran-molleda.netlify.app",
+    },
+    {
+      title: "Pixabay",
+      url: "https://pixabay-app-fran-molleda.netlify.app",
+    }
+  ],
+  aboutMe:
+    "Graduated from the Ironhack Coding Bootcamp Madrid, passionate about development and programming. Communicative, self-motivated, and positive, with a persistent and open-minded approach. I love connecting with different people, so if you want to say hi, I'll be happy to meet you more! :)",
+};
 
 ```
 
@@ -79,10 +77,3 @@ const Fran = {
 
 
 
-### About Me
-
-
-Graduated from the Ironhack Coding Bootcamp Madrid, passionate about development and programming as well as problem solving. Communicative, self-motivated and positive, as well as persistent and open-minded.
-
-
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
