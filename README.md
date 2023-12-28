@@ -70,10 +70,3 @@ const FranMolleda = {
 };
 
 ```
-
-
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=FranMolleda&show_icons=true)
-  
-
-
-
